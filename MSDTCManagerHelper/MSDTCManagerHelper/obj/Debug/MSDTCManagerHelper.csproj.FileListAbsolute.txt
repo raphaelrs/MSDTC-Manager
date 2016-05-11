@@ -1,0 +1,7 @@
+D:\Users\t072911934\Documents\Visual Studio 2012\Projects\MSDTCManagerHelper\MSDTCManagerHelper\bin\Debug\MSDTCManagerHelper.exe.config
+D:\Users\t072911934\Documents\Visual Studio 2012\Projects\MSDTCManagerHelper\MSDTCManagerHelper\bin\Debug\MSDTCManagerHelper.exe
+D:\Users\t072911934\Documents\Visual Studio 2012\Projects\MSDTCManagerHelper\MSDTCManagerHelper\bin\Debug\MSDTCManagerHelper.pdb
+D:\Users\t072911934\Documents\Visual Studio 2012\Projects\MSDTCManagerHelper\MSDTCManagerHelper\bin\Debug\Madaa.Lib.Win.Services.dll
+D:\Users\t072911934\Documents\Visual Studio 2012\Projects\MSDTCManagerHelper\MSDTCManagerHelper\obj\Debug\MSDTCManagerHelper.csprojResolveAssemblyReference.cache
+D:\Users\t072911934\Documents\Visual Studio 2012\Projects\MSDTCManagerHelper\MSDTCManagerHelper\obj\Debug\MSDTCManagerHelper.exe
+D:\Users\t072911934\Documents\Visual Studio 2012\Projects\MSDTCManagerHelper\MSDTCManagerHelper\obj\Debug\MSDTCManagerHelper.pdb
